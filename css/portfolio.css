@@ -1,14 +1,22 @@
 body {
-    background: white;
+    background: #F9F7FE;
 }
 
 h1 {
     color: black;
-    font-family: 'Playfair Display', serif;
-    font-weight: bold;
+    font-size: 36px;
+    font-family: 'Poppins', serif;
+    font-weight: 700;
+}
+
+h2 {
+    font-family: 'Playfair display', serif;
+    font-weight: 700;
+    font-size: 96px;
 }
 
 p {
     font-family: 'Poppins', serif;
     font-weight: normal;
+    font-size: 24px;
 }
