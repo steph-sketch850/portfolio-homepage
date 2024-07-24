@@ -24,10 +24,14 @@ h1 {
     font-size: 96px;
 }
 
+p {
+    font-weight: normal;
+}
 
 .hero {
-    background: #F9F7FE;
+    background: var(--secondary-color);
     text-align: center;
+    padding: 160px 20px;
 }
 
 .hero p {
